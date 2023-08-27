@@ -2,3 +2,4 @@
 0914. ✅ test: test user registration edge cases
 0630. 🚀 perf: lazy-load components
 0377. ✨ feat: add user authentication
+0192. ✨ feat: enable dark mode toggle
