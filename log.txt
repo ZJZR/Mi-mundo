@@ -9,3 +9,4 @@
 0778. 📚 docs: write FAQ section
 0800. 🚀 perf: optimize database query for quiz results
 0720. ✨ feat: add export to CSV option
+0218. 🔧 refactor: clean up auth middleware
