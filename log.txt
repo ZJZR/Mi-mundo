@@ -12,3 +12,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0543. ✨ feat: support email verification
 0283. ♻️ chore: add GitHub actions badge
+0442. 🎨 style: standardize quote style
