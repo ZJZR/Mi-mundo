@@ -25,3 +25,4 @@
 0013. ✅ test: increase coverage on auth module
 0542. 🔧 refactor: organize models into subfolders
 0946. ✅ test: add unit test for quiz service
+0478. 🐛 fix: resolve issue with date parsing
