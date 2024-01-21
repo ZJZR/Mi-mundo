@@ -32,3 +32,4 @@
 0335. ♻️ chore: update .gitignore
 0754. 🐛 fix: handle 500 error in quiz API
 0209. ✨ feat: implement quiz timer feature
+0901. ✨ feat: add user authentication
