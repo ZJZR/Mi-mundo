@@ -51,3 +51,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0725. 🚀 perf: lazy-load components
 0053. ✅ test: increase coverage on auth module
+0346. ✅ test: mock database connection in test suite
