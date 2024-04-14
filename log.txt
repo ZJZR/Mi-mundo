@@ -55,3 +55,4 @@
 0389. 📚 docs: improve code comments in utils
 0994. 🚀 perf: reduce image load time
 0849. 🐛 fix: correct typo in registration form
+0825. 🔧 refactor: split large controller into smaller functions
