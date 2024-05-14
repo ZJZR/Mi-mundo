@@ -63,3 +63,4 @@
 0365. 🚀 perf: reduce image load time
 0940. 📚 docs: document token refresh logic
 0767. 🔧 refactor: remove redundant code blocks
+0181. ♻️ chore: add GitHub actions badge
