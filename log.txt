@@ -78,3 +78,4 @@
 0933. 📚 docs: clarify environment setup
 0047. 🎨 style: rename variables for clarity
 0533. ♻️ chore: add GitHub actions badge
+0903. ✅ test: mock database connection in test suite
