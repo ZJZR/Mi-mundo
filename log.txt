@@ -101,3 +101,4 @@
 0419. 🎨 style: remove trailing whitespace
 0356. 📚 docs: write FAQ section
 0597. 🚀 perf: cache repeated calculations
+0865. ♻️ chore: add GitHub actions badge
