@@ -108,3 +108,4 @@
 0136. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
+0558. ✨ feat: enable dark mode toggle
