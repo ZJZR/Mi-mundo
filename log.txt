@@ -115,3 +115,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0409. 🚀 perf: lazy-load components
 0538. 🐛 fix: fix broken CSS in mobile view
+0774. 🔧 refactor: refactor quiz grading logic
