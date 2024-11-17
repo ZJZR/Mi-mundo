@@ -118,3 +118,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0205. 📚 docs: update README with setup steps
 0635. 🎨 style: apply consistent indentation
+0623. 🎨 style: standardize quote style
