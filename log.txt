@@ -131,3 +131,4 @@
 0993. ✨ feat: implement quiz timer feature
 0249. ✅ test: increase coverage on auth module
 0826. 📚 docs: clarify environment setup
+0498. ✅ test: mock database connection in test suite
