@@ -133,3 +133,4 @@
 0826. 📚 docs: clarify environment setup
 0498. ✅ test: mock database connection in test suite
 0667. ✨ feat: add export to CSV option
+0300. ✨ feat: add export to CSV option
