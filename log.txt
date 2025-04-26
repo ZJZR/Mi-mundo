@@ -149,3 +149,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0847. ♻️ chore: clean up unused files
 0763. 🔧 refactor: organize models into subfolders
+0028. 🎨 style: standardize quote style
