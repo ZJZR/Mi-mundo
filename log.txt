@@ -152,3 +152,4 @@
 0028. 🎨 style: standardize quote style
 0614. 🚀 perf: reduce image load time
 0351. ✨ feat: add export to CSV option
+0893. 🐛 fix: handle 500 error in quiz API
