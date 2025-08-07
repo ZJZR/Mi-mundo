@@ -171,3 +171,4 @@
 0785. ✨ feat: enable dark mode toggle
 0957. 🐛 fix: fix null pointer exception on login
 0349. ✅ test: increase coverage on auth module
+0311. 🎨 style: apply consistent indentation
