@@ -185,3 +185,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0704. 🚀 perf: cache repeated calculations
 0995. ✅ test: mock database connection in test suite
+0171. 🐛 fix: fix broken CSS in mobile view
