@@ -191,3 +191,4 @@
 0944. ✨ feat: add user authentication
 0430. 🐛 fix: fix null pointer exception on login
 0226. 🚀 perf: lazy-load components
+0955. 🔧 refactor: remove redundant code blocks
